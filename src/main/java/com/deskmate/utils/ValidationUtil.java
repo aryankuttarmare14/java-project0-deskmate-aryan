@@ -1,7 +1,8 @@
 package com.deskmate.utils;
-package com.deskmate.utils;
 
-import com.deskmate.dbps.exception.ValidationException;
+import com.exception.ValidationException;
+
+//import com.deskmate.dbps.exception.ValidationException;
 
 public final class ValidationUtil {
 
